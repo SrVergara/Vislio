@@ -1,0 +1,601 @@
+.content-container{
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+
+.homepage-container{
+	background-color: #384356;
+	text-align: center;
+	color: white;
+	padding: 200px;
+	font-family: 'Raleway', sans-serif;
+}
+
+#homepage-container-text {
+	font-size: 60px;
+}
+
+#nav-link {
+	padding-left: 0;
+	margin-bottom: 0;
+	list-style: none;
+}
+
+.navbar-brand {
+	width: 70px;
+	padding: 0px;
+}
+
+.navbar {
+	background: #01344E;
+    padding-top: 4px;
+}
+
+#main-logo{
+    width: 230px;
+}
+
+#main-logo-text{
+    margin-top: 8px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#main-logo:hover{
+    color: gray;
+}
+
+.navbar-brand, .navbar-nav > li > a {
+	color: white;
+	width: 200px;
+	text-align: center;
+	font-size: 18px;
+}
+
+.navbar .navbar-nav > li > a:hover{
+	background: #0A2432;
+	color: white;
+}
+
+#find-workshop-link {
+	color:rgb(255, 255, 96);
+}
+
+#find-workshop-button {
+	color:rgb(255, 255, 96);
+}
+
+#nav-link > li{
+	float: right;
+}
+
+#nav-link > li > a {
+	position: relative;
+	display: block;
+	padding: 10px 15px;
+	width: 180px;
+	text-align: center;
+}
+
+.center-box {
+	font-size: 25px; 
+	margin: 25px 25px ;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.subtitle-heading {
+	text-align: center;
+	margin: 25px 25px 15px;
+	font-size: 40px;
+}
+
+.subtitle-explanation {
+	text-align: center;
+	margin: 0px 25px 100px;
+	font-size: 25px;
+}
+
+#subtitle-alternative {
+	text-align: center;
+	margin: 0px 25px 50px;
+	font-size: 25px;
+}
+
+.section-explanation {
+	text-align: center;
+	margin: 100px 10px 50px;
+	font-size: 25px;
+}
+
+.icon-bottom-margin {
+	margin-bottom: 30px;
+}
+
+.icons-displayed {
+	height:30px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+/*homepage 4th section */
+
+#note-text {
+	font-size: 15px;
+	padding: 20px;
+}
+
+.icon-small{
+    width: 32px;
+    margin-top: 10px;
+}
+
+#institutions img{
+	min-height: 80px;
+	max-height: 80px;
+	margin-bottom: 10px;
+}
+
+.tap-btn {
+	font-size: 30px;
+	text-align: center;
+	display: block;
+}
+
+#workshop-heading {
+	padding-bottom: 20px;
+}
+
+
+.workshop-box{
+    min-height: 230px;
+    margin-bottom: 20px;
+    padding: 10px;
+    position: relative;
+	padding-right:16px;
+	padding-left:16px;
+}
+
+.workshop-box-image{
+	padding: 0px;
+}
+
+.workshop-box-image img{
+	height: 100%;
+	width: 100%;
+	min-height: 230px;
+}
+
+#workshop-point-click{
+    background-color: #37c0c8;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+
+#workshop-force{
+    background-color: #c47642;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+
+#light-gray-background {
+	background-color: lightGray;
+}
+
+.supercharge-text{
+    font-family: 'Raleway', sans-serif;
+}
+
+#what-students-liked{
+	font-size: 20px;
+}
+
+/* imported styles */
+
+.small-pad{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.training-box{
+	min-height: 300px;
+	margin-bottom: 20px;
+	padding: 10px;
+	position: relative;
+}
+
+.training-box a{
+	color: #7BB1E0;
+}
+
+#app-development{
+	background-color: black;
+	color: white;
+}
+
+#app-development img{
+	width: 33%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+#trailhead-courses{
+	background-color: #384353;
+	color: white;
+	position: relative;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#trailhead-courses #trailhead-banner{
+	position: absolute;
+	bottom: 20px;
+	width: 100%;
+}
+
+#trailhead-courses > h1{
+	position: absolute;
+	top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+}
+
+#salesforce-bootcamp{
+	background-color: #C9F1FD;
+	padding: 20px;
+}
+
+#salesforce-bootcamp h1,h2,h3{
+	margin-bottom: 0px;
+}
+
+#salesforce-bootcamp h2{
+	margin-top: 0px;
+}
+
+#salesforce-bootcamp .form-group{
+	width: 100%;
+}
+
+#salesforce-bootcamp #invite-email{
+	width: 70%;
+}
+
+#invite-form{
+	margin-top: 20px;
+}
+
+#summer-camp{
+	padding: 0px;
+}
+
+#summer-camp img{
+	width: 100%;
+	max-height: 300px;
+}
+
+#udacity{
+	background-color: #AEDD94;
+}
+
+#udacity img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 50%;
+	margin-top:10px;
+}
+
+#developer-edition{
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+}
+
+#developer-edition img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+#salesforce-technical-library{
+	background-color: #D6D6D6;
+}
+
+#salesforce-technical-library img{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 10px;
+}
+
+#newsletter{
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+	text-align: center;
+}
+
+#newsletter #newsletter-form{
+	margin-top: 20px;
+}
+
+#newsletter .form-group{
+	width: 100%;
+}
+
+#newsletter #newsletter-email{
+	width: 70%;
+}
+
+#supercharge{
+	padding-top: 60px;
+}
+
+#sweetlist{
+	padding-left: 20%;
+	padding-right: 20%;
+	margin-bottom: 60px;
+}
+
+.no-padding{
+	padding: 0px;
+}
+
+.footer-top{
+	background: url("../images/footer-background-top.png") no-repeat 63% top;
+	height: 122px;
+}
+
+.footer{
+	color: #808080;
+	background: url("../images/footer-background.png") no-repeat 63% top #e6e7e8;
+	padding-top: 139px;
+	padding-bottom: 25px;
+}
+
+.footer-headline{
+	font-size: 18px;
+	line-height: 2em;
+}
+
+.footer-headline a{
+	color: #808080;
+}
+
+.footer-copyright, .footer-legal, .footer-links{
+	font-size: 13px;
+	line-height: 1.5em;
+}
+
+.footer-links{
+	line-height: 2em;
+}
+
+.footer-social {
+	padding: 0;
+	margin: 0;
+}
+@media(max-width: 767px) {
+	.footer-social{
+		margin-top: 20px;
+	}
+}
+
+.footer-social li{
+	list-style-type: none;
+	float: left;
+	margin-left: 3px;
+	margin-top: 1px;
+}
+
+.footer-social li:first-child {
+	margin-left: 0;
+}
+
+.footer-social a {
+	display: block;
+	width: 31px;
+	height: 30px;
+	background: url(../images/social-icons.png) no-repeat;
+	text-indent: -998em;
+}
+
+.footer-social li.facebook a{
+	background-position: -37px 0;
+}
+
+.footer-social li.twitter a{
+	background-position: 0 0;
+}
+
+.footer-social li.linkedin a{
+	background-position: -68px 0;
+}
+
+.footer-social li.googleplus a{
+	background-position: -101px 0;
+}
+
+.footer-social li.youtube a{
+	background-position: -134px 0;
+}
+
+.footer-social li.rss a{
+	background-position: -167px 0;
+}
+
+.original-overlay, .overlay{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+.overlay{
+	padding-top: 40px;
+	padding-left: 24px;
+	padding-bottom: 16px;
+	padding-right: 24px;
+	background-color: rgba(0,0,0,.7);
+	color: white;
+	display: none;
+}
+
+#clear-calendar{
+	padding: 40px;
+}
+
+#workshop-calendar{
+	margin-top: 40px;
+}
+
+#workshop-contact-us{
+	margin-bottom: 100px;
+}
+
+#landing-newsletter-form{
+	text-align: center;
+}
+
+#landing-newsletter #landing-newsletter-form{
+	margin-top: 20px;
+}
+
+#landing-newsletter .form-group{
+	width: 50%;
+}
+
+#landing-newsletter #landing-newsletter-email{
+	width: 80%;
+}
+
+/* icons */
+.title-icon {
+	background: url(../images/headline-icons.png) no-repeat 0 0;
+	width: 90px;
+	height: 72px;
+	display: block;
+	position: absolute;
+	top: 50%;
+	margin-top: -38px;
+	text-indent: -998em; }
+@media (max-width: 767px) {
+	.title-icon {
+		display: none; } }
+.title-icon.title-icon-yellow {
+	background-position: -118px 0;
+	margin-top: 0px;}
+.title-icon.title-icon-blue {
+	background-position: -236px 0;
+	margin-top: 0px ;}
+.title-icon.title-icon-orange {
+	background-position: -354px 0;
+	top: 0;
+	margin-top: 0; }
+.title-icon.title-icon-green {
+	background-position: -472px 0;
+	top: 0;
+	margin-top: 0; }
+.title-icon.title-icon-pink {
+	background-position: -590px 0;
+	bottom: 0;
+	margin-top: 0;}
+.title-icon.left {
+	left: 65px; }
+@media (min-width: 1200px) {
+	.title-icon.left {
+		left: 155px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+	.title-icon.left {
+		left: -10px; } }
+.title-icon.right {
+	right: 65px; }
+@media (min-width: 1200px) {
+	.title-icon.right {
+		right: 155px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+	.title-icon.right {
+		right: -10px; } }
+
+.participate1 p {
+	margin-top: 0; }
+.participate1 .blue-text {
+	margin-top: 19px; }
+
+.participate2 .title-icon-yellow.left {
+	left: 67px; }
+@media (min-width: 1200px) {
+	.participate2 .title-icon-yellow.left {
+		left: 161px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+	.participate2 .title-icon-yellow.left {
+		left: -10px; } }
+.participate2 .title-icon-yellow.right {
+	right: 67px; }
+@media (min-width: 1200px) {
+	.participate2 .title-icon-yellow.right {
+		right: 161px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+	.participate2 .title-icon-yellow.right {
+		right: -10px; } }
+.participate2 .title-icon-blue.left {
+	left: -36px; }
+@media (min-width: 1200px) {
+	.participate2 .title-icon-blue.left {
+		left: 57px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+	.participate2 .title-icon-blue.left {
+		display: none; } }
+.participate2 .title-icon-blue.right {
+	right: -36px; }
+@media (min-width: 1200px) {
+	.participate2 .title-icon-blue.right {
+		right: 57px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+	.participate2 .title-icon-blue.right {
+		display: none; } }
+
+.participate3 {
+	margin-bottom: 29px; }
+.participate3 .participate-inner {
+	position: relative; }
+.participate3 .icon-container-left {
+	position: absolute;
+	top: 43px;
+	left: 10px;
+	width: 196px;
+	height: 158px; }
+@media (min-width: 1200px) {
+	.participate3 .icon-container-left {
+		left: 20px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+	.participate3 .icon-container-left {
+		width: 90px;
+		height: 72px;
+		left: 39px; } }
+@media (max-width: 767px) {
+	.participate3 .icon-container-left {
+		display: none; } }
+.participate3 .icon-container-left .title-icon-orange {
+	left: 0; }
+@media (min-width: 768px) and (max-width: 991px) {
+	.participate3 .icon-container-left .title-icon-orange {
+		display: none; } }
+.participate3 .icon-container-left .title-icon-green {
+	right: 0; }
+@media (min-width: 768px) and (max-width: 991px) {
+	.participate3 .icon-container-left .title-icon-green {
+		display: none; } }
+
